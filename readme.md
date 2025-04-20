@@ -1,11 +1,4 @@
-pizza hut- https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.7040592&lng=77.10249019999999&restaurantId=55473&catalog_qa=undefined&submitAction=ENTER
+<img width="1674" alt="Screenshot 2025-04-20 at 6 48 48 PM" src="https://github.com/user-attachments/assets/ac3a98a6-14e0-4f18-9d3f-4392e894f4f8" />
+<img width="1674" alt="Screenshot 2025-04-20 at 6 48 48 PM" src="https://github.com/user-attachments/assets/20a22cf6-ec04-4a0f-8000-8c8270fba46e" />
 
-
-https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.7040592&lng=77.10249019999999&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING
-
-
-chinese wok- https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.7040592&lng=77.10249019999999&restaurantId=603438&catalog_qa=undefined&submitAction=
-
-
-https://www.swiggy.com/dapi/menu/pl/search?lat=28.7040592&lng=77.10249019999999&restaurantId=55473&isMenuUx4=true&query=tan&submitAction=ENTER
 
